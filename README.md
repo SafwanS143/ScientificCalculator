@@ -1,6 +1,6 @@
 # 🧮 GATE Scientific Calculator
 
-A fully-featured scientific calculator built in **Flutter** as part of the [iStudy – Syllabus & Papers](https://play.google.com/store/apps/details?id=com.istudy.app) app, available on both the **Google Play Store** and **Apple App Store**. The calculator is accessible within the app under the **GATE exam** feature.
+A fully-featured scientific calculator built in **Flutter** as part of the [iStudy – Syllabus & Papers](https://play.google.com/store/apps/details?id=com.istudy.app) app, available on both the **Google Play Store** and **Apple App Store**, with the app having **100k+ downloads**. The calculator is accessible within the app under the **GATE exam** feature.
 
 > **Note:** This repository contains screenshots of the shipped feature. The source code is proprietary and lives in the company's private codebase.
 
