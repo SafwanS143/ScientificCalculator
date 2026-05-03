@@ -10,8 +10,8 @@ A fully-featured scientific calculator built in **Flutter** as part of the [iStu
 
 The calculator is live and available to real users inside the iStudy app:
 
-- 🤖 [Download on Google Play]([https://play.google.com/store/apps/details?id=com.istudy.app](https://play.google.com/store/apps/details?id=ini.istudy))
-- 🍎 [Download on the App Store]([https://apps.apple.com/app/istudy-syllabus-papers/id1527660428](https://apps.apple.com/ca/app/istudy-app-syllabus-papers/id6478500231))
+- 🤖 [Download on Google Play] ([https://play.google.com/store/apps/details?id=com.istudy.app](https://play.google.com/store/apps/details?id=ini.istudy))
+- 🍎 [Download on the App Store] ([https://apps.apple.com/app/istudy-syllabus-papers/id1527660428](https://apps.apple.com/ca/app/istudy-app-syllabus-papers/id6478500231))
 
 After signup,
 
