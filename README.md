@@ -51,11 +51,11 @@ Developed during my **Summer 2023 internship**. I was the primary developer resp
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="calc1.jpg" width="250"/>
+  <img src="calc1.JPG" width="250"/>
   &nbsp;&nbsp;
-  <img src="calc2.jpg" width="250"/>
+  <img src="calc2.JPG" width="250"/>
   &nbsp;&nbsp;
-  <img src="calc3.jpg" width="250"/>
+  <img src="calc3.JPG" width="250"/>
 </p>
 
 ---
